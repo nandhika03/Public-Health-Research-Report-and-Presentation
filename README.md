@@ -41,7 +41,7 @@ This project investigates the spatial and social patterns of influenza transmiss
 - Shift focus to county or zip-code level
 
 ## Author
-Nandhika Rajmanikandan, MS Data Science, Michigan Technological University
+Nandhika Rajmanikandan(MS Data Science), Frank Ofusu(MS Health Informatics) Michigan Technological University
 
 ## License
 Open for educational and non-commercial use. Attribution appreciated.

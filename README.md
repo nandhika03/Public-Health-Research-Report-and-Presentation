@@ -7,6 +7,7 @@ This project analyzes the spatial distribution of influenza activity in the Unit
 
 ### Key findings
 ![img](https://github.com/nandhika03/Public-Health-Research-Report-and-Presentation/blob/main/Maps/hotspotanalysis.jpeg)
+![img](https://github.com/nandhika03/Public-Health-Research-Report-and-Presentation/blob/main/Maps/Overallfluprevalance.png)
 - **Hotspot analysis (Getis-Ord Gi\*)** identified statistically significant clustering of high flu positivity rates in several **Southeastern U.S. states** (e.g., Georgia, Alabama, Mississippi) and low-activity clusters in parts of the **Northern Plains**.
 - **Choropleth maps of mean lab-confirmed flu positivity** showed clear regional variation, but **multigenerational household percentage exhibited weak correlation** with flu positivity at the state level.
 - **Random Forest regression** failed to meaningfully predict state-level flu positivity (**R² = -0.46, RMSE = 2.46**), confirming limited predictive signal in the selected features.
